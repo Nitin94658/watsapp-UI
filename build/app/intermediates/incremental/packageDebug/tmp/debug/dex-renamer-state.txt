@@ -1,0 +1,4 @@
+#Fri Dec 30 20:39:36 IST 2022
+base.0=C\:\\Users\\Nitin Garg\\StudioProjects\\watsapp_ui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
